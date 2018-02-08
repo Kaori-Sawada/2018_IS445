@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/Kaori-Sawada/2018_IS445.git/issues"
   },
-  "homepage": "https://github.com/Kaori-Sawada/2018_IS445.git#readme"
+  "homepage": "https://github.com/Kaori-Sawada/2018_IS445.git#readme",
+  "dependencies": {
+    "express": "^4.16.2"
+  }
 }
