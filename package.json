@@ -1,0 +1,20 @@
+{
+  "name": "2018_IS445",
+  "version": "1.0.0",
+  "description": "IS445 Web Development",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kaori-Sawada/2018_IS445.git.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Kaori-Sawada/2018_IS445.git/issues"
+  },
+  "homepage": "https://github.com/Kaori-Sawada/2018_IS445.git#readme"
+}
