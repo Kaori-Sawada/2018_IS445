@@ -19,5 +19,9 @@
   "homepage": "https://github.com/Kaori-Sawada/2018_IS445.git#readme",
   "dependencies": {
     "express": "^4.16.2"
-  }
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+}
 }
